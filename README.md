@@ -1,5 +1,5 @@
 ### Lidar.
-
+<img src="media/ObstacleDetectionFPS.gif" width="700" height="400" />
 **Repo description** This project deals with filitring segmentation and clustring lidar point to detect and track obstacles around a car .
 
 ## Local Installation
